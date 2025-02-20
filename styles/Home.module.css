@@ -12,6 +12,14 @@
     background-color: #f0f0f0;
 }
 
+.footer {
+    background-color: #5a942b;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .title {
     color: #c5dc81;
     font-size: 30px;
@@ -51,7 +59,17 @@
     width: 100%;
     background-color: #e0ecbb;
     border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
 }
 
-
-
+.texto {
+    padding: 0 2rem;
+}
